@@ -264,3 +264,4 @@ F:\ASP.NET\WebApplication1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.
 F:\ASP.NET\WebApplication1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 F:\ASP.NET\WebApplication1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 F:\ASP.NET\WebApplication1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+f:\ASP.NET\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json
